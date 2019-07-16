@@ -18,9 +18,10 @@ For the most completed translation, you should use the default [values](https://
 * options.xml (store every option text, the biggest one)
 * strings.xml (store some in-game text)
 * act_import_replay_res.xml and score_menu_fragment.xml are completely optional (their purpose is quite explainatory already)
+
 <br>Alright, now i know some of you might be really confused by all this coding stuffs, but don't worry, we wont't have to learn that much
 <br>First, let's tackle the main stuffs all the in-game text is store in this format
 ```xml
-<string name="TEXT_NAME_GOES_HERE"> TEXT_VALUE_GOES_HERE_PLEASE_TRANSLATE </string>
+<string name="TEXT_NAME_GOES_HERE_DONT_TOUCH"> TEXT_VALUE_GOES_HERE_PLEASE_TRANSLATE </string>
 }
 ```
