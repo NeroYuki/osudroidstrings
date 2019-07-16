@@ -11,8 +11,8 @@ folder contains the English language files
 ## How to contribute your translation
 For the most completed translation, you should use the default [values](https://github.com/EdrowsLuo/osudroidstrings/tree/master/osudroidresource/src/main/res/values) folder as reference, translate those files to your language and save them as new file with the same name in the desired folder
 <br>in all values folder you will see a bunch of .xml file. Don't worry. These file are perfectly okay to be opened as a text file if you choose any text editor to open it
-<br>It should look like this
-![How it should look like](https://i.ibb.co/gr0DgvW/cacac.png)
+<br>It should look like this<br>
+![How it should look like...............................](https://i.ibb.co/gr0DgvW/cacac.png)
 <br>(*I'm using visual studio code to open it, but feel free to open it with any text editor*)
 <br>You will need to translate these file in ordered of priority
 * options.xml (store every option text, the biggest one)
